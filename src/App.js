@@ -14,11 +14,17 @@ export default function App() {
   const current = words[index];
   const front = mode === 'ENtoDE' ? current.en : current.de;
   const back = mode === 'ENtoDE' ? current.de : current.en;
-
+  
+    console.log("DEBUG typeof front:", typeof front, front);
+    console.log("DEBUG typeof back:", typeof back, back);
+  
   const nextCard = () => {
     setIndex((index + 1) % words.length);
     setShowTranslation(false);
+
+
   };
+  
 
   return (
     <div className="p-10 text-center">
