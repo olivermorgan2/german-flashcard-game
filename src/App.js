@@ -1,1 +1,0 @@
-// App.js content goes here. Please paste from ChatGPT or original source.
