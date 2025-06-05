@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/german-flashcard-game/static/css/main.397b2038.css",
-    "main.js": "/german-flashcard-game/static/js/main.1440b7c2.js",
+    "main.css": "/german-flashcard-game/static/css/main.2e49237e.css",
+    "main.js": "/german-flashcard-game/static/js/main.02c9d8d1.js",
     "index.html": "/german-flashcard-game/index.html",
-    "main.397b2038.css.map": "/german-flashcard-game/static/css/main.397b2038.css.map",
-    "main.1440b7c2.js.map": "/german-flashcard-game/static/js/main.1440b7c2.js.map"
+    "main.2e49237e.css.map": "/german-flashcard-game/static/css/main.2e49237e.css.map",
+    "main.02c9d8d1.js.map": "/german-flashcard-game/static/js/main.02c9d8d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.397b2038.css",
-    "static/js/main.1440b7c2.js"
+    "static/css/main.2e49237e.css",
+    "static/js/main.02c9d8d1.js"
   ]
 }
